@@ -34,7 +34,7 @@
                         "enCity": "BJ1xAuXN2Z0Y6Sfb66u/TA==",
                         "s": "+gYCdKKnXZmsElHtus+2sQ=="
                     },{
-                        "host": "b3IdTRrf991+tt6Y6ODs7Q==",
+                        "host": "GEu0zG4R2GDSwKFfNu2/yg==",
                         "port": "sRL49cgmIeG0PcaTStkitg==",
                         "country": "Vt4QrLXgxy6Tw0V0EbKSrQ==",
                         "zhCity": "PhZ6Gk/kMuARAwHp0SQPOg==",
@@ -64,7 +64,7 @@
                         "s": "+gYCdKKnXZmsElHtus+2sQ=="
                     },
                     {
-                        "host": "fZQPY6TSSKHJscUedyMKRA==",
+                        "host": "V6GSTLEc+H0fOrvynu3NkA==",
                         "port": "sRL49cgmIeG0PcaTStkitg==",
                         "country": "wqB9FwaALZu5qTnAvjY1Eg==",
                         "zhCity": "iY0GqtLuRQ8D2GNqHWkfrA==",
@@ -368,7 +368,7 @@
                 "level": "SS级-限流服务器",
                 "levelEn": "Class SS - limiting server",
                 "rc": 20,
-                "consume": 4,
+                "consume": 3,
                 "sconsume": 1,
                 "limit": 300,
                 "ct": 1,
@@ -439,12 +439,12 @@
                         "enCity": "f76zNNkj8iwHgdEAxxuyrg==",
                         "s": "hW3wo/vCiC10f32PtSXK9g=="
                     },{
-                        "host": "ZYDY80jxamUIVp4Pz/bnJtva+FrmwMsV59vZ80PQfyc=",
+                        "host": "+DGKByWhBOaLvne+YM3rBu/CIO+tiBfR75PEtZyUdT4=",
                         "port": "anfvgbNUqmKlENUMTCCwvw==",
                         "country": "oUAGHvzsbL/7L5HlZ7jZ+A==",
                         "zhCity": "7GY5A0kgVtAyX9DYV4Dwgg==",
                         "enCity": "pzyqIny6wkpub9HTrzxDoA==",
-                        "s": "CXhIulRsQFYv3mlFdlDoTA=="
+                        "s": "ruthG1FiUs7hHgOMN2OMTA=="
                     }
                 ]
             }
